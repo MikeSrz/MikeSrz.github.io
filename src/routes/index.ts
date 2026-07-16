@@ -3,8 +3,10 @@ import Home from '@/views/Home.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
-  routes: [ 
-    {path: '/home', component: Home},
+  routes: [
+    { path: '/', redirect: '/home' },
+    { path: '/home', component: Home },
   ],
 })
+
 export default router
