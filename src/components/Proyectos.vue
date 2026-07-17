@@ -24,7 +24,7 @@
                 </a>
             </div>
             <div class="lg:w-1/3">
-                <img src="@/assets/codibalto.png" alt="codiBalto" class="w-full rounded-xl object-cover shadow-md" />
+                <img src="@/assets/codibalto.png" alt="CodiBalto" class="w-full rounded-xl object-cover shadow-md" />
             </div>
         </div>
     </div>
