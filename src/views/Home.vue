@@ -3,7 +3,7 @@
     <div class="space-y-5 text-center">
       <h1 class="text-4xl text-white">Michael Suárez Botero</h1>
       <h3>Junior FullStack Developer</h3>
-      <img src="@/assets/profile.png" alt="Profile Picture" class="profile-image" />
+      <img src="@/assets/profile.webp" alt="Profile Picture" class="profile-image" />
       <p class="mt-2 text-xl text-slate-500 text-left dark:text-slate-400">
         Soy desarrollador backend con experiencia de prácticas en entornos profesionales como desarrollador fullstack<br>
         He implementado funcionalidades de backend para herramientas financieras, optimización de procesos y corrección de bugs, siempre procurando enfocar mis desarrollos a la mayor eficiencia y escalabilidad.<br>
